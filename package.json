@@ -1,8 +1,8 @@
 {
-  "name": "productive-box",
+  "name": "toshiki-productive",
   "version": "1.1.0",
   "description": "Are you an early 🐤 or a night 🦉? Let's check out in gist",
-  "author": "maxam2017",
+  "author": "andatoshiki",
   "license": "MIT",
   "scripts": {
     "dev": "ts-node src/index.ts",
